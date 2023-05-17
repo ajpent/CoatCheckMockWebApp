@@ -1,0 +1,64 @@
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  outline: solid 3px #000;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.generateQRCode {
+  color: #000;
+  font-size: 32px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 74px;
+  top: 133px;
+  width: 279px;
+  height: 40px;
+  flex-direction: column;
+}
+.generateCode {
+  transform-origin: top left;
+  position: absolute;
+  left: 344px;
+  top: 414px;
+  width: 260px;
+  height: 67px;
+  align-items: flex-start;
+  border-radius: 10px;
+  overflow: hidden;
+  transform: matrix(-1, 0, 0, -1, 0, 0);
+}
+.group {
+  position: absolute;
+  left: -85.0376px;
+  top: -97.3095px;
+  width: 404.665px;
+  height: 261.2829px;
+  overflow: visible;
+  filter: blur(40px);
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.gENERATECODE {
+  transform-origin: top left;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 6px);
+  top: calc(50% - -0.5px);
+  width: 158px;
+  height: 32px;
+  flex-direction: column;
+  transform: matrix(-1, 0, 0, -1, 0, 0) translate(-50%, -50%);
+}

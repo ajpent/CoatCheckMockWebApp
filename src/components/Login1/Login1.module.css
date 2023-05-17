@@ -1,0 +1,209 @@
+.user2.user2 {
+  left: 164px;
+  top: 57px;
+  width: 20px;
+  height: 19px;
+}
+.user.user {
+  width: 20px;
+  height: 19px;
+}
+.user {
+  width: 20px;
+  height: 19px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.forgotPassword {
+  color: #4285f4;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 242px;
+  top: 375px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle28 {
+  position: absolute;
+  left: 24px;
+  top: 429px;
+  width: 339px;
+  height: 55px;
+  border-radius: 12px;
+  background-color: #190152;
+}
+.login {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 172px;
+  top: 445px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle26 {
+  position: absolute;
+  left: 24px;
+  top: 246px;
+  width: 339px;
+  height: 55px;
+  outline: solid 1px #818181;
+  outline-offset: -1px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 2px 0px #0000001f;
+}
+.emailAddress {
+  color: #6f6f6f;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40px;
+  top: 264px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle27 {
+  position: absolute;
+  left: 24px;
+  top: 314px;
+  width: 339px;
+  height: 55px;
+  outline: solid 1px #818181;
+  outline-offset: -1px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 2px 0px #0000001f;
+}
+.password {
+  color: #6f6f6f;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40px;
+  top: 333px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle29 {
+  position: absolute;
+  left: 37px;
+  top: 148px;
+  width: 320px;
+  height: 52px;
+  outline: solid 1px #000;
+  outline-offset: -1px;
+  border-radius: 8px;
+  box-shadow: 0px 8px 20px 0px #00000014;
+}
+.rectangle30 {
+  position: absolute;
+  left: 37px;
+  top: 148px;
+  width: 153px;
+  height: 52px;
+  border-radius: 8px 0 0 8px;
+  background-color: #6a00bf;
+  box-shadow: 0px 2px 2px 0px #00000040;
+}
+.email {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 91px;
+  top: 163px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.phoneNumber {
+  color: #000;
+  font-size: 16px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 210px;
+  top: 164px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.loginAccount {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Raleway, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 55px;
+  width: 146px;
+  height: 21px;
+  flex-direction: column;
+}
+.helloWelcomeBackToOurAccount {
+  color: #636363;
+  font-size: 13px;
+  font-family: Poppins, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 83px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.shape {
+  position: absolute;
+  left: 358px;
+  top: 71px;
+  width: 6px;
+  height: 4px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.india {
+  position: absolute;
+  left: 322px;
+  top: 55px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/india.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

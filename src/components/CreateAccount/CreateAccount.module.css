@@ -1,0 +1,230 @@
+.user2.user2 {
+  left: 164px;
+  top: 57px;
+  width: 20px;
+  height: 19px;
+}
+.user.user {
+  width: 20px;
+  height: 19px;
+}
+.user {
+  width: 20px;
+  height: 19px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  background-color: #fff;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.rectangle29 {
+  position: absolute;
+  left: 24px;
+  top: 100px;
+  width: 339px;
+  height: 55px;
+  outline: solid 1px #818181;
+  outline-offset: -1px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 2px 0px #0000001f;
+}
+.rectangle26 {
+  position: absolute;
+  left: 24px;
+  top: 392px;
+  width: 339px;
+  height: 55px;
+  outline: solid 1px #818181;
+  outline-offset: -1px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 2px 0px #0000001f;
+}
+.rectangle27 {
+  position: absolute;
+  left: 24px;
+  top: 471px;
+  width: 339px;
+  height: 55px;
+  outline: solid 1px #818181;
+  outline-offset: -1px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 2px 0px #0000001f;
+}
+.rectangle28 {
+  position: absolute;
+  left: 24px;
+  top: 544px;
+  width: 339px;
+  height: 55px;
+  border-radius: 12px;
+  background-color: #190152;
+}
+.createAccount {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 121px;
+  top: 560px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.emailAddress {
+  color: #6f6f6f;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 45px;
+  top: 411px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.firstName {
+  color: #6f6f6f;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 45px;
+  top: 119px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle30 {
+  position: absolute;
+  left: 24px;
+  top: 173px;
+  width: 339px;
+  height: 55px;
+  outline: solid 1px #818181;
+  outline-offset: -1px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 2px 0px #0000001f;
+}
+.lastName {
+  color: #6f6f6f;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 45px;
+  top: 192px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle32 {
+  position: absolute;
+  left: 24px;
+  top: 245px;
+  width: 339px;
+  height: 55px;
+  outline: solid 1px #818181;
+  outline-offset: -1px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 2px 0px #0000001f;
+}
+.dateOfBirth {
+  color: #6f6f6f;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 45px;
+  top: 264px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.rectangle31 {
+  position: absolute;
+  left: 24px;
+  top: 316px;
+  width: 339px;
+  height: 55px;
+  outline: solid 1px #818181;
+  outline-offset: -1px;
+  border-radius: 12px;
+  box-shadow: 0px 2px 2px 0px #0000001f;
+}
+.phoneNumber {
+  color: #6f6f6f;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 45px;
+  top: 335px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.password {
+  color: #6f6f6f;
+  font-size: 14px;
+  font-family: Outfit, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 40px;
+  top: 490px;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.create {
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  font-family: Raleway, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 18px;
+  top: 55px;
+  width: 146px;
+  height: 21px;
+  flex-direction: column;
+}
+.shape {
+  position: absolute;
+  left: 358px;
+  top: 71px;
+  width: 6px;
+  height: 4px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.india {
+  position: absolute;
+  left: 322px;
+  top: 55px;
+  width: 32px;
+  height: 32px;
+  background-image:/* webpackIgnore: true */ url('/assets/india.png');
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
+}

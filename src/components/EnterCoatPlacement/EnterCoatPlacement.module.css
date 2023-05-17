@@ -1,0 +1,55 @@
+.root {
+  position: relative;
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  outline: solid 3px #000;
+  outline-offset: -3px;
+  border-radius: 20px;
+  background-color: #fff;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.frame2 {
+  position: absolute;
+  left: 74px;
+  top: 314px;
+  width: 266px;
+  height: 234px;
+  align-items: flex-start;
+  outline: solid 1px #de2bae;
+  outline-offset: -1px;
+  border-radius: 10px;
+  overflow: hidden;
+  backdrop-filter: blur(2px);
+}
+.enterHere {
+  color: #7070707d;
+  font-size: 48px;
+  font-weight: 600;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: 6.391%;
+  right: 6.391%;
+  top: 23.0769%;
+  bottom: 19.2308%;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.pleaseEnterThePlacementOfTheIt {
+  color: #000;
+  font-size: 32px;
+  font-family: Inter, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  position: absolute;
+  left: calc(50% - 0.5px);
+  top: calc(50% - 164px);
+  width: 247px;
+  height: 134px;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+  transform: translate(-50%, -50%);
+}
